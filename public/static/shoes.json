@@ -1,0 +1,162 @@
+[
+  {
+    "id": "1",
+    "name": "Base Líquida",
+    "price": "18,00",
+    "oldPrice": "25,00",
+    "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/001/546/products/base-liquida-1-01-8846b44bb23fc000b915829150925295-480-0.jpg",
+    "description": "Atua como tratamento antissinais, garantindo mais firmeza e elasticidade para a pele. Formulada com ativos que protegem a degradação do colágeno e estimula sua produção natural. Contém ácido hialurônico, mantendo a pele hidratada e prolongando a duração da maquiagem. Possui textura aveludada e cobertura leve a média com incrível acabamento de “segunda pele”, permitindo a construção de camadas, sem perder o efeito natural. Possui ativo contra a luz azul, protegendo as células da luz visível emitida pelas telas de computadores, celulares e tablets. Evita o surgimento de manchas, o envelhecimento precoce e aumenta a energia celular, restaurando a vitalidade da pele. Contém vitamina E, antioxidante que previne a formação de radicais livres, é hipoalergênica, não comedogênica, livre de parabenos, vegana e não testada em animais."
+  },
+  {
+    "id": "2",
+    "name": "Batom Matte",
+    "price": "10,99",
+    "oldPrice": "15,00",
+    "image": "https://www.florenza.com.br/media/catalog/product/cache/1/image/1200x/9df78eab33525d08d6e5fb8d27136e95/b/a/batom-ovo-vivai-capa.jpg",
+    "description": "Fórmula de batom cremosa que proporciona cor altamente pigmentada e acabamento matte. Com aplicação suave, cremosa, que desliza facilmente, o batom não craquela, não deixa os lábios ressacados, é incrivelmente macio e confortável. A embalagem possui o design tradicional dos batons da marca."
+  },
+  {
+    "id": "3",
+    "name": "Coleção de Pinceís",
+    "price": "120,00",
+    "oldPrice": "150,99",
+    "image": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1114923417",
+    "description": "Pincéis com tamanho entre 18 e 20cm. Estojo com kit de 24 pincéis indicado para uso profissional e pessoal. Produto de ótima qualidade, feitos a partir de fibras sintéticas e hipoalérgicas para diferentes funções, eles são macios e confortáveis e são perfeitos para realização de uma maquiagem com acabamento IMPECÁVEL, não solta cerdas. Acompanha um estojo de couro sintético, fácil de transportar."
+  },
+  {
+    "id": "4",
+    "name": "Maleta de Sombras",
+    "price": "150,00",
+    "oldPrice": "200,00",
+    "image": "https://www.alboradainfo.com/image/cache/produto/1791/15d89da1e58f4e7699118e0b7d571266.jpg",
+    "description": "Caixa de piano profissional para maquiagem, conjunto de maquiagem com 180 cores, sombra de olhos matte, à prova d'água, blush, cosméticos."
+  },
+  {
+    "id": "5",
+    "name": "Rímel à Prova D'água",
+    "price": "12,99",
+    "oldPrice": "18,50",
+    "image": "https://images.tcdn.com.br/img/img_prod/903923/mascara_rimel_maximo_alongamento_a_prova_dagua_8ml_13_1_cd3863e0c1c2ad98f7676c1812dbebd8_20210804115133.png",
+    "description": "Máscara que proporciona volume imediato desde a primeira aplicação. Os cílios se multiplicam, aumentam, se tornam mais densos. Revestidos com uma cor intensa, eles abrem o olhar. À prova d'água e de borrões, fixação perfeita. A fórmula fluida, seca rapidamente após a aplicação, permitindo construir um volume sob medida. Resistente à água e umidade, garante um resultado perfeito e de alta fixação e demaquia facilmente."
+  },
+  {
+    "id": "6",
+    "name": "Paleta de Iluminador",
+    "price": "25,90",
+    "oldPrice": "30,00",
+    "image": "https://www.florenza.com.br/media/catalog/product/cache/1/image/1200x/9df78eab33525d08d6e5fb8d27136e95/p/a/paleta_4_glow_1.png",
+    "description": "Iluminador hidratante para o rosto, com um efeito de radiância discreta. Sua textura funde-se à pele e reflete a luz. Cria um efeito brilhante que desenha o rosto, aprimorando de maquiagens sofisticadas até os looks mais naturais. Com seu formato portátil e um design elegante e discreto, é fácil de usar no rosto, nos lábios e nos olhos, o dia todo."
+  },
+  {
+    "id": "7",
+    "name": "Delineador Líquido",
+    "price": "15,89",
+    "oldPrice": "21,99",
+    "image": "https://cdn.iset.io/assets/51734/produtos/1570/thumb_300-300-delineador-liquido-ruby-01liquido.jpg",
+    "description": "Delineadores líquidos que contornam os olhos criando diferentes tipos de delineado com precisão. Sua formula promove cobertura total no traço além de não repuxar durante a aplicação."
+  },
+  {
+    "id": "8",
+    "name": "Pó Compacto",
+    "price": "15,90",
+    "oldPrice": "20,99",
+    "image": "https://www.drogariaminasbrasil.com.br/media/product/bf5/po-compacto-matte-mineral-medio-payot-10g-980.jpg",
+    "description": "Este prduto conta com uma textura sedosa e foi especialmente formulado para eliminar o brilho do rosto sem deixar um aspecto empoado. Pó compacto inigualável para controla da oleosidade, que fixa a base e realiza o acabamento do rosto, acrescentando só um mínimo de cor e textura. Para uso em situações profissionais que exigem retoques frequentes ou ao longo do dia. Confere um acabamento muito suave e natural."
+  },
+  {
+    "id": "9",
+    "name": "Corretivo Líquido",
+    "price": "25,00",
+    "oldPrice": "32,99",
+    "image": "https://avongroup.vteximg.com.br/arquivos/ids/167502/1339389--1-.jpg?v=637408199797800000",
+    "description": "Corretivo hidratante ultraconfortável de longa duração que corrije imperfeições, diminui a aparência das olheiras e ilumina os olhos. Seu efeito blur diminui instantaneamente a aparência de imperfeições e os sinais da fadiga. Enriquecido com um ingrediente ativo energizante e um pigmento refletor da luz, a fórmula hidratante ilumina a área dos olhos, criando um look descansado que dura até 8 horas. Sua textura suave, cremosa e leve desliza facilmente sobre a pele e fornece conforto por todo o dia."
+  },
+  {
+    "id": "10",
+    "name": "Gel para Sobrancelhas",
+    "price": "9,90",
+    "oldPrice": "12,99",
+    "image": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/330993-320-320/6270-2.jpg?v=636904132162770000",
+    "description": "Esse produto nada mais é do que um gel para modelar e preencher as sobrancelhas. Ele é perfeito para quem tem as sobrancelhas meio falhadas e gostaria que fossem mais cheias e desenhadas. O gel vem numa embalagem convencional de vidro transparente com tampa de rosquear. É ideal para correção de sobrancelhas de forma precisa. Acompanha uma pastinha cremosa com cor e que fica completamente sequinha após aplicar e um pincel chanfrado para te auxiliar no design perfeito que permite uma aplicação precisa."
+  },
+  {
+    "id": "11",
+    "name": "Água Micelar 200ml",
+    "price": "23,00",
+    "oldPrice": "30,00",
+    "image": "https://a-static.mlcdn.com.br/618x463/agua-micelar-hidraderm-200ml-farmax/drogariaeperfumariafonseca/317p/2c619227740b0bd5a9fba4b07889651e.jpg",
+    "description": " Esse produto nada mais é do que um produto de tratamento facial que possui multifunções. Ela é capaz de limpar profundamente sem irritar ou fazer a pele arder, respeitando seu equilíbrio fisiológico. E, ainda, cuidar dela através das suas estruturas micelares. Use pela manhã, após lavar o rosto e antes de aplicar o protetor solar e a maquiagem, e à noite, após lavar a pele com água e sabonete, para desobstruir poros e retirar resíduos de maquiagem."
+  },
+  {
+    "id": "12",
+    "name": "Blush",
+    "price": "10,50",
+    "oldPrice": "16,90",
+    "image": "https://lojamaurobijouterias.com.br/image/cache/catalog/blush-chandelle-perolado-mauro-bijouterias%20(1)-500x500.png",
+    "description": "Produto clássico na necessaire das mulheres. Ele serve para dar um ar mais vívido para a make e garante aquele aspecto saudável à pele. Além disso, ele também ajuda a dar um toque de naturalidade para a base, o corretivo e pó, que apagam os contornos da pele e deixam tudo de um tom só. É o que dá vida ao seu rosto. Uma pele saudável tem um rubor natural na região das bochechas. A base tira toda a cor natural do rosto, então é fundamental usar um blush para dar sensação de naturalidade e saúde."
+  },
+  {
+    "id": "13",
+    "name": "Lapís de Olho",
+    "price": "2,90",
+    "oldPrice": "6,99",
+    "image": "https://lojamaurobijouterias.com.br/image/cache/catalog/lapis-preto-esfumador-com-apontador-dapop1-maurobijouterias-900x900.jpg",
+    "description": "Tem a principal vantagem desse produto é sua dupla função: delinear e esfumar. É possível realçar o olhar com um traço preciso ou com um efeito esfumado. é possível passá-lo não só na linha d'água, mas também rente aos cílios (superiores e inferiores) e deixar a make mais dramática. Nosso lápis de olho vem acompanhado de um apontador que fica localizado em sua tampa."
+  },
+  {
+    "id": "14",
+    "name": "Paleta de Sombras",
+    "price": "15,50",
+    "oldPrice": "22,00",
+    "image": "https://www.pontofrio-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1633021681",
+    "description": "Esse produto faz os olhos de qualquer fã de maquiagem brilharem mais forte. Desejo de consumo absoluto, elas possibilitam combinações mil e pouquíssimo esforço na hora de variar no look. E qualquer erro na hora de maquiar os olhos pode ser fatal! Escolher uma paleta de sombras com até cinco cores pode facilitar. Geralmente, a combinação de tons do conjunto é escolhida justamente para evitar equívocos. Já as sombras mais escuras servem para fazer o canto externo."
+  },
+  {
+    "id": "15",
+    "name": "Kit Cílios Postiços 3 Pares",
+    "price": "15,99",
+    "oldPrice": "24,90",
+    "image": "https://www.revendadecosmeticos.com.br/media/catalog/product/cache/1/image/600x600/9df78eab33525d08d6e5fb8d27136e95/c/_/c_lios-posti_os-macrilan-2.jpg",
+    "description":"Esse produto serve para realçar o olhar e deixar a mulher mais poderosa. Os cílios são grandes aliados porque eles dão um up em qualquer maquiagem. Grande parte dos cílios postiços é feita de fios sintéticos – são os mais fáceis de encontrar no mercado. Existem também os naturais, que são feitos de pelo humano."
+  },
+  {
+    "id": "16",
+    "name": "Esponja de Maquiagem",
+    "price": "4,50",
+    "oldPrice": "8,90",
+    "image": "http://d3ugyf2ht6aenh.cloudfront.net/stores/001/063/583/products/pl021-29bba27f28515c225515965741525885-640-0.png",
+    "description": "Esse produto serve basicamente para passar base ou corretivo. Auxilia as pessoas que não possuem prática e que, muitas vezes, ao utilizarem pincéis para a aplicação dos produtos, acabam deixando aquele efeito craquelado devido ao acúmulo de produto em uma única região. A face arredondada serve para aplicar o produto pelo rosto todo, enquanto a ponta vai ajudar a atingir os cantinhos específicos (olhos, nariz). Já a parte achatada é ideal para aplicar iluminador diretamente nas têmporas, ou então uma base mais escura para definir os contornos."
+  },
+  {
+    "id": "17",
+    "name": "Curvex para Cílios",
+    "price": "7,00",
+    "oldPrice": "10,99",
+    "image": "https://d358a814b78lcf.cloudfront.net/Custom/Content/Products/10/07/1007118_curvex-para-cilios-hello-mini-8485_m2_637254915948634379.jpg",
+    "description": "Esse produto serve para deixar o cílios com efeito de boneca. Define os cílios deixando-os curvados e alongados. Segure o curvex com o dedo indicador e o polegar, em seguida posicione o curvex bem rente aos cílios, certifique-se que todos os cílios estão entre a pinça do curvex e o pressione por aproximadamente 15 segundos."
+  },
+  {
+    "id": "18",
+    "name": "Paleta de Contorno",
+    "price": "17,00",
+    "oldPrice": "25,00",
+    "image": "https://d16t0x76yczyds.cloudfront.net/Custom/Content/Products/10/03/1003283_paleta-de-contorno-powder-artist-3d-ruby-kisses_m6_636413381459149564.jpg",
+    "description": " Esse é aquele produtinho indispensável para quem ama arrasar nas técnicas de contorno e iluminação que moldam o rosto e realçam ainda mais a beleza da maquiagem. Você pode utilizar um pincel de detalhes bem macio ou usar os dedos também. Aplique as cores claras nas áreas de destaque ou que desejar iluminar. Já as escuras, aplique nos locais que deseja maior definição e contorno. Esfume bem para mesclar e não ficar marcado."
+  },
+  {
+    "id": "19",
+    "name": "Gloss Labial",
+    "price": "8,99",
+    "oldPrice": "15,00",
+    "image": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_auto,fl_progressive,q_auto:eco,w_800/v1/imagens/product/456/9826f37e-79dd-4c37-aace-7ebb774ef98d-gloss18.jpg",
+    "description": "Produto utilizado principalmente para dar brilho aos lábios e, por vezes, cor sutil. É comumente encontrado em forma líquida ou sólida (não deve ser confundido com bálsamo labial, que geralmente tem efeitos medicinais). Use o produto suavemente nos lábios para não deixar a boca com um aspecto artificial e pesado. Um truque bem fácil é passar o cosmético com os dedos para um resultado mais uniforme, começando sempre pelo centro dos lábios e seguindo para as laterais."
+  },
+  {
+    "id": "20",
+    "name": "Primer Fluído",
+    "price": "11,50",
+    "oldPrice": "17,50",
+    "image": "https://dozlxztiddv53.cloudfront.net/Custom/Content/Products/10/20/1020440_primer-fluido-vult_m1_636753705999586183.jpg",
+    "description": "Quando aplicado no rosto esse produto disfarça os poros abertos e as linhas finas de expressão do rosto, proporcionando uma pele uniformizada e garantindo um aspecto natural, saudável e com toque seco e aveludado. Para apalicar, comece pelo centro do rosto e espalhe de dentro para fora e de baixo para cima. Não é preciso usar muito produto, mas o ideal é concentrar a maior quantidade primer nas regiões mais oleosas, como a zona T do rosto. Aguarde o primer ser totalmente absorvido pela pele antes de passar a base ou corretivo."
+  }
+]
